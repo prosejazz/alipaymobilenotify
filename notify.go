@@ -25,7 +25,7 @@ MIGf************************************************************
 ********************AQAB
 -----END PUBLIC KEY-----`
 
-	partner = "2088811103141914"
+	partner = ""
 )
 
 type MobilePayNotify struct {
